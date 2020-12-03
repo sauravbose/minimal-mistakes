@@ -5,12 +5,15 @@ author_profile: true
 ---
 Home/Projects
 
+this is the ref
+<a href="{{ / }}"><{{"home"}}</a>
+<!--
 {% for page in site.pages %}
   {{page.title}} <br>
-{% endfor %}
+{% endfor %} -->
 
 These are the projects.
 
-{% for page in site.pages %}
+<!-- {% for page in site.pages %}
   {{page.url}} <br>
-{% endfor %}
+{% endfor %} -->
