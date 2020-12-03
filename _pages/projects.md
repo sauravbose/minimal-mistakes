@@ -2,6 +2,7 @@
 permalink: /projects/
 title: "Projects"
 author_profile: true
+toc: true
 ---
 Home/Projects
 
