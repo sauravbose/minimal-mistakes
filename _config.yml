@@ -95,7 +95,7 @@ analytics:
 author:
   name             : #
   avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist <br> HealthAI"
+  bio              : "Data Scientist"
   location         : "Children's Hospital of Philadelphia"
   email            :
   links:
@@ -112,10 +112,10 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/sauravbose"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/saurav-bose/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
