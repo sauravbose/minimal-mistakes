@@ -95,7 +95,7 @@ analytics:
 author:
   name             : #
   avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist"
+  bio              : "Data Scientist <br> HealthAI"
   location         : "Children's Hospital of Philadelphia"
   email            :
   links:
