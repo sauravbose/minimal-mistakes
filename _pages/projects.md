@@ -4,4 +4,4 @@ title: "Projects"
 author_profile: true
 ---
 
-These are the course projects.
+These are the projects.
