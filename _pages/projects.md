@@ -4,6 +4,6 @@ title: "Projects"
 author_profile: true
 toc: true
 ---
-These are my course projects.
+These is my course projects.
 
 this is a new paragraph.
