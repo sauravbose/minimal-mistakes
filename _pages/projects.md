@@ -5,7 +5,6 @@ author_profile: true
 toc: true
 toc_icon: "book"
 ---
-These are my projects.
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
