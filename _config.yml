@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : #
-  avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Philly, PA"
   email            :
