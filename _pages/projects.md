@@ -5,5 +5,3 @@ author_profile: true
 toc: true
 ---
 These are my course projects.
-
-and a new para. 
