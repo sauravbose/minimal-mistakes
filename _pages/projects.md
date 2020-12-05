@@ -6,4 +6,4 @@ toc: true
 ---
 These are my course projects.
 
-this is a new paragraph.
+Once again, new paragraph
