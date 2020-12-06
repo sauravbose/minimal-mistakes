@@ -6,7 +6,7 @@ toc: true
 toc_icon: "book"
 ---
 
-# title
+# Projects
 
 ## second title
 
