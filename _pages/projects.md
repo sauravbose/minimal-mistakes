@@ -6,16 +6,16 @@ toc: true
 toc_icon: "book"
 ---
 
-# Classical Machine Learning
+## Classical Machine Learning
 
-## Predicting Asthma Persistence in Children
+### Predicting Asthma Persistence in Children
 
-# Course Projects
+## Course Projects
 
-## Characterizing Air Quality in Philadelphia
+### Characterizing Air Quality in Philadelphia
 
-## Will Kobe make this shot?
+### Will Kobe make this shot?
 
-## Predicting readmission probability for diabetes inpatients
+### Predicting readmission probability for diabetes inpatients
 
-## Multi-class Classication of Tweets
+### Multi-class Classication of Tweets
