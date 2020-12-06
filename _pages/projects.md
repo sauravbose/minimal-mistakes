@@ -18,4 +18,4 @@ toc_icon: "book"
 
 ### Predicting readmission probability for diabetes inpatients
 
-### Multi-class Classication of Tweets
+### Multi-class Classification of Tweets
