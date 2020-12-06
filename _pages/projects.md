@@ -16,6 +16,6 @@ toc_icon: "book"
 
 ### Will Kobe make this shot?
 
-### Predicting readmission probability for diabetes inpatients
+### Predicting Readmission Probability for Diabetes Inpatients
 
 ### Multi-class Classification of Tweets
