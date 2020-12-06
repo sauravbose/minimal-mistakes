@@ -6,10 +6,16 @@ toc: true
 toc_icon: "book"
 ---
 
-# Projects
+# Classical Machine Learning
 
-## second title
+## Predicting Asthma Persistence in Children
 
-### third title
+# Course Projects
 
-#### fourth title
+## Characterizing Air Quality in Philadelphia
+
+## Will Kobe make this shot?
+
+## Predicting readmission probability for diabetes inpatients
+
+## Multi-class Classication of Tweets
