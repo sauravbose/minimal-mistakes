@@ -9,8 +9,8 @@ This is my CV.
 
 <button type="submit" onclick="window.open('/pdfs/Resume.pdf')">Download!</button>
 
-<a href="/pdfs/Resume.pdf" class="btn btn-primary">Go to Google</a>
+<a href="/pdfs/Resume.pdf" class="btn btn-primary">Click to Download</a>
 
-<a href="/pdfs/Resume.pdf" class="btn btn-success">Go to Google</a>
+<a href="/pdfs/Resume.pdf" class="btn btn-success">Click to Download</a>
 
-<a href="/pdfs/Resume.pdf" class="btn btn-info">Go to Google</a>
+<a href="/pdfs/Resume.pdf" class="btn btn-info">Click to Download</a>
