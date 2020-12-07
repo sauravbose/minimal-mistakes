@@ -14,3 +14,5 @@ This is my CV.
 <a href="/pdfs/Resume.pdf" class="btn btn-success">Click to Download</a>
 
 <a href="/pdfs/Resume.pdf" class="btn btn-info">Click to Download</a>
+
+<button type="button" class="btn btn-primary">Primary</button>
