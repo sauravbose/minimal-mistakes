@@ -18,6 +18,8 @@ This is my CV.
 
 trying out a new button.
 
-<a href="/pdfs/Resume.pdf">
-<img src = "/images/download_pdf.png" alt="Download Button" width="500" height="300">
-</a>
+[Success Button Text]("/pdfs/Resume.pdf"){: .btn .btn--success}
+
+[Success Button Text](/pdfs/Resume.pdf){: .btn .btn--success}
+
+[Info Button Text]("/pdfs/Resume.pdf"){: .btn .btn--info}
