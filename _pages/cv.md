@@ -10,8 +10,10 @@ This is my CV.
 <button type="submit" onclick="window.open('/pdfs/Resume.pdf')">Download!</button>
 
 <a href="/pdfs/Resume.pdf">
-<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-primary btn-lg">Primary</button>
 </a>
 
 
 <button type="button" class="btn btn-primary">Primary</button>
+
+trying out a button.
