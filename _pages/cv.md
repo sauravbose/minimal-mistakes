@@ -3,23 +3,12 @@ permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
 ---
-This is my CV.
+[Click to Download](/pdfs/Resume.pdf){: .btn .btn--success}
 
-<a href="/pdfs/Resume.pdf">Download CV</a>
+[Click to Download](/pdfs/Resume.pdf){: .btn .btn--info}
 
-<button type="submit" onclick="window.open('/pdfs/Resume.pdf')">Download!</button>
+[Click to Download](/pdfs/Resume.pdf){: .btn .btn--info .btn--x-large}
 
-<a href="/pdfs/Resume.pdf">
-<button type="button" class="btn btn-primary btn-lg">Primary</button>
-</a>
+[Click to Download](/pdfs/Resume.pdf){: .btn .btn--info .btn--large}
 
-
-<button type="button" class="btn btn-primary">Primary</button>
-
-trying out a new button.
-
-[Success Button Text]("/pdfs/Resume.pdf"){: .btn .btn--success}
-
-[Success Button Text](/pdfs/Resume.pdf){: .btn .btn--success}
-
-[Info Button Text]("/pdfs/Resume.pdf"){: .btn .btn--info}
+[Click to Download](/pdfs/Resume.pdf){: .btn .btn--info .btn--small}
