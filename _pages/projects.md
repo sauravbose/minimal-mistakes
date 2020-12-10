@@ -27,3 +27,5 @@ In this fun application of Machine Learning we used a publicly available dataset
 ### Predicting Readmission Probability for Diabetes Inpatients
 
 ### Multi-class Classification of Tweets
+
+<center><img src="/images/TwitterMulticlass.png"></center>
