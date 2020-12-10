@@ -27,5 +27,6 @@ In this fun application of Machine Learning we used a publicly available dataset
 ### Predicting Readmission Probability for Diabetes Inpatients
 
 ### Multi-class Classification of Tweets
+In a "classic course project" fashion, we explored the basics of Natural Language Processing to classify the sentiment of tweets.
 
 <center><img src="/images/TwitterMulticlass.png"></center>
