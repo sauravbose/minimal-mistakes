@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 toc_icon: "book"
 ---
-*Last updated in Dec 2020*
+*Last updated in December 2020.*
 ## Classical Machine Learning
 
 ### Predicting Asthma Persistence in Children
