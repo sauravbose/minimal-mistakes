@@ -4,6 +4,7 @@ title: "Projects"
 author_profile: true
 toc: true
 toc_icon: "book"
+classes: wide
 ---
 
 ## Classical Machine Learning
