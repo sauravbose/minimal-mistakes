@@ -32,8 +32,8 @@ In this predictive analytics project, we used a dataset made publicly available 
 <center><img src="/images/CourseProjects/DiabetesReadmission.png"></center>
 
 ### Multi-class Classification of Tweets
-In a "classic course project" fashion, we explored the basics of Natural Language Processing to classify the sentiment of tweets.
+In a "classic course project" fashion, we explored the basics of Natural Language Processing to classify the sentiment of tweets..
 
 <!-- Write something about the cost function being user-defined multi dimensional.  -->
 
-<center><img src="/images/CourseProjects/TwitterMulticlass.png"></center>
+<center><img src="/images/CourseProjects/TwitterMulticlass.png" width="600"></center>
