@@ -29,8 +29,6 @@ In this predictive analytics project, we used a dataset made publicly available 
 1. Identify the factors determining whether or not the patient will be readmitted within 30 days.
 2. Develop a classification model to predict if a patient will be readmitted within 30 days.
 
-![image-center](/images/CourseProjects/DiabetesReadmission.png){: .align-center}
-
 <center><img src="/images/CourseProjects/DiabetesReadmission.png"></center>
 
 ### Multi-class Classification of Tweets
