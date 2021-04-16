@@ -20,7 +20,7 @@ In this exploratory data analysis project, I studied the environmental (Air qual
 <center><img src="/images/CourseProjects/Aircasting.png" width="600"></center>
 
 ### Will Kobe make this shot?
-[![](https://img.shields.io/badge/RStudio-Open_Notebook-brightgreen?logo=RStudio)]({% post_url 2020-01-12-test-post %})
+[![](https://img.shields.io/badge/RStudio-Open_Notebook-brightgreen?logo=RStudio)]({% post_url 2017-12-15-Kobe %})
 
 In this fun application of Machine Learning we used a publicly available dataset that contains all of Kobe Bryant’s 30,697 shots that he attempted over the course of his NBA career to answer two questions:
 1. Can we predict the outcome of Kobe’s shot with reasonable accuracy?
