@@ -29,7 +29,7 @@ In this fun application of Machine Learning we used a publicly available dataset
 <center><img src="/images/CourseProjects/Kobe.png"></center>
 
 ### Predicting Readmission Probability for Diabetes Inpatients
-[![](https://img.shields.io/badge/RStudio-Open_Notebook-brightgreen?logo=RStudio)](/_pages/blog.md)
+[![](https://img.shields.io/badge/RStudio-Open_Notebook-brightgreen?logo=RStudio)]({% post_url 2017-10-15-Diabetes %})
 
 In this predictive analytics project, we used a dataset made publicly available by the <a href="https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008" style="text-decoration: none;">Center for Clinical and Translational Research</a> at Virginia Commonwealth University to help better manage diabetes patients with a hospital admission. Our goals were two-fold:
 1. Identify the factors determining whether or not the patient will be readmitted within 30 days.
