@@ -4,6 +4,10 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "Press"
+    url: /press/
+  - title: "Talks"
+    url: /talks/
   - title: "Resources"
     url: /resources/
   - title: "Blog"
