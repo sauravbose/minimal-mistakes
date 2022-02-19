@@ -6,14 +6,27 @@ toc: true
 toc_icon: "book"
 ---
 *Last updated in December 2020.*
+## Deep Learning
+
+### Learning to detect rib fractures in chest X-rays
+In this project detect rib fractures.
+
+<center><img src="/images/DeepLearning/chest_xray.jpg"></center>
+
 ## Classical Machine Learning
 
-### Predicting Asthma Persistence in Children
+### Personalized prediction of asthma persistence
+[![](https://img.shields.io/badge/Adobe-Download_Paper-brightgreen?logo=Adobe%20Acrobat%20Reader)](/pdfs/Asthma_Plos.pdf)
+
+In this project I developed various machine learning models (XGBoost, Random Forest, Logistic Regression, K-Nearest Neighbors, Naive Bayes) and training pipelines consisting of feature selection, class balance, Bayesian hyperparameter tuning and model evaluation to predict persistent asthma using EHR data. I also ddressed clinical explainability needs through permutation analysis and achieved an ROC-AUC of 0.86 (95% precision, 82%
+recall at 70% specificity) for XGBoost, successfully demonstrating the utility of machine learning for a novel task. This work was published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247784" style="text-decoration: none;">PLoS One</a>
+
+<center><img src="/images/ClassicalML/asthma.jpg"></center>
 
 ## Course Projects
 
 ### Characterizing Air Quality in Philadelphia
-[![](https://img.shields.io/badge/RStudio-Open_Notebook-blue?logo=RStudio)]({% post_url 2016-07-20-characterizing-air-quality %})
+[![](https://img.shields.io/badge/RStudio-Open_Notebook-brightgreen?logo=RStudio)]({% post_url 2016-07-20-characterizing-air-quality %})
 
 In this exploratory data analysis project, I studied the environmental (Air quality, Humidity, Noise Level and Temperature) conditions in the city of Philadelphia. For the analysis I scraped most of the data from the publicly available <a href="http://aircasting.habitatmap.org/mobile_map#?map_crowd=%22undefined%22&map=%7B%22zoom%22:5,%22lat%22:37.09024,%22lng%22:-95.712891,%22mapType%22:%22roadmap%22,%22hasChangedProgrammatically%22:false%7D&data=%7B%22sensorId%22:%22Particulate%20Matter-airbeam2-pm2.5%20(µg%2Fm³)%22,%22location%22:%22%22,%22tags%22:%22%22,%22usernames%22:%22%22,%22timeFrom%22:%221575936000%22,%22timeTo%22:%221607644799%22,%22heat%22:%7B%22lowest%22:0,%22low%22:12,%22mid%22:35,%22high%22:55,%22highest%22:150%7D,%22gridResolution%22:31,%22crowdMap%22:false%7D&fetchedSessionsCount=100" style="text-decoration: none;">AirCasting</a> database, collected some of my own using <a href="https://www.habitatmap.org/airbeamand" style="text-decoration: none;">AirBeam</a> sensors and leveraged Python's superior data munging and R's amazing visualization capabilities.
 
