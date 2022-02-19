@@ -20,8 +20,7 @@ For a more detailed summary, please check out my <a href="https://sauravbose.git
 
 ## Conferences and Presentations
 
-* **Bose S**, Berna AZ, Hernandez-Leyva A, Masino AJ, Kau A, John AO. *Detecting predictive signatures of asthma in pediatric breath samples using machine learning*, International Conference on Health Informatics 2022. Notes: Oral
-presentation.
+* **Bose S**, Berna AZ, Hernandez-Leyva A, Masino AJ, Kau A, John AO. *Detecting predictive signatures of asthma in pediatric breath samples using machine learning*, International Conference on Health Informatics 2022. Notes: <a href="https://www.insticc.org/node/TechnicalProgram/BIOSTEC/2022/presentationDetails/110195" style="text-decoration: none;">Oral presentation</a>.
 
 * Ghosh A, Patton D, **Bose S**, Ouyang M, Huang H, Sze R, Sotardi S, Henry K, Francavilla M. *A Patch-based Convolutional Neural Network Approach for the detection of Rib Fractures on Frontal Radiographs in Young Children*,
 The Society for Pediatric Radiology Annual Meeting 2022. Notes: Oral presentation.
