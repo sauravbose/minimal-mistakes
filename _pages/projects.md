@@ -5,27 +5,37 @@ author_profile: true
 toc: true
 toc_icon: "book"
 ---
-*Last updated in December 2020.*
+*Last updated in December 2021.*
 ## Deep Learning
 
 ### Learning to detect rib fractures in chest X-rays
-In this project detect rib fractures.
+In this research project we developed Convolutional Neural Networks (CNNs) with ResNet based architectures to detect rib fractures in chest X-rays. We used a patch-based transfer learning paradigm with image augmentations to generate probabilty of fracture in various regions of the whole X-ray. Despite limited training data, our training paradigm helped us achieved an ROC-AUC of 0.75 and model explainability.
 
+This work will be presented at the The Society for Pediatric Radiology Annual Meeting in April 2022 and is due for publication in a peer-reviewed journal. All code will be made available post publication.
 <center><img src="/images/DeepLearning/chest_xray.jpg"></center>
 
 ## Classical Machine Learning
 
 ### Personalized prediction of asthma persistence
 [![](https://img.shields.io/badge/Adobe-Download_Paper-brightgreen?logo=Adobe%20Acrobat%20Reader)](/pdfs/Asthma_Plos.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sauravbose/asthma-persistence-prediction)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sauravbose/asthma-persistence-prediction)
 
 
 In this NIH funded research project, we developed a machine learning solution to predict persistent asthma in school aged children using their EHR data. The analysis pipeline consisted of feature selection, class balance, Bayesian hyperparameter tuning and model evaluation. We achieved an ROC-AUC of 0.86 (95% precision, 82%
 recall at 70% specificity) for our XGBoost model, demonstrating quantitative success of machine learning on a novel task. Further, we addressed clinical explainability needs by a qualitative audit of our model using permutation analysis. We found diagnosis age, race, prior diagnosis of allergic rhinitis, and eczema, health service utilization and prescription of Montelukast (an asthma controller medication) prior to age 5 years to be important predictors of asthma persistence.
 
-This work was published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247784" style="text-decoration: none;">PLoS One</a>
+This work was published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247784" style="text-decoration: none;">PLoS One</a>.
 
 <center><img src="/images/ClassicalML/asthma.jpg"></center>
+
+### Personalized prediction of asthma persistence
+[![](https://img.shields.io/badge/Adobe-View_Abstract-brightgreen?logo=Adobe%20Acrobat%20Reader)](https://www.insticc.org/node/TechnicalProgram/BIOSTEC/2022/presentationDetails/110195)
+[![](https://img.shields.io/badge/YouTube-Presentation-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=cLnzhSrc5_g&t=12s&ab_channel=SauravBose)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sauravbose/asthma-biomarker)
+
+Asthma is a common allergic disorder characterized by airway inflammation and obstruction that affects at least 300 million people and accounts for up to 1 in 250 deaths worldwide. However, currently available diagnostic tests of asthma are either invasive or require patient compliance, making them difficult to use in children. In this research project, we developed a machine learning based diagnostic tool to distinguish between asthmatics and healthy using their breath samples. The breath samples were processed using a GC/MS-qTOF system to create a high-dimensional dataset which was then used to detect asthma biomarkers using filter based feature selection and machine learning algorithms like XGBoost and Kernel SVM. We achieved an ROC-AUC of 0.91 (93% TNR at 70% TPR), outperforming previously developed linear and rule based systems. We also identified clinically relevant biomarkers such as toluene, pentanoic acid, 3-carene and cyclohexylmethane. 
+
+This work was presented at the <a href="https://www.insticc.org/node/TechnicalProgram/BIOSTEC/2022/presentationDetails/110195" style="text-decoration: none;">International Conference on Health Informatics 2022</a>.
 
 ## Course Projects
 
