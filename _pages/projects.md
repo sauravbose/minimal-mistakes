@@ -17,9 +17,13 @@ In this project detect rib fractures.
 
 ### Personalized prediction of asthma persistence
 [![](https://img.shields.io/badge/Adobe-Download_Paper-brightgreen?logo=Adobe%20Acrobat%20Reader)](/pdfs/Asthma_Plos.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sauravbose/asthma-persistence-prediction)
 
-In this project I developed various machine learning models (XGBoost, Random Forest, Logistic Regression, K-Nearest Neighbors, Naive Bayes) and training pipelines consisting of feature selection, class balance, Bayesian hyperparameter tuning and model evaluation to predict persistent asthma using EHR data. I also ddressed clinical explainability needs through permutation analysis and achieved an ROC-AUC of 0.86 (95% precision, 82%
-recall at 70% specificity) for XGBoost, successfully demonstrating the utility of machine learning for a novel task. This work was published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247784" style="text-decoration: none;">PLoS One</a>
+
+In this NIH funded research project, we developed a machine learning solution to predict persistent asthma in school aged children using their EHR data. The analysis pipeline consisted of feature selection, class balance, Bayesian hyperparameter tuning and model evaluation. We achieved an ROC-AUC of 0.86 (95% precision, 82%
+recall at 70% specificity) for our XGBoost model, demonstrating quantitative success of machine learning on a novel task. Further, we addressed clinical explainability needs by a qualitative audit of our model using permutation analysis. We found diagnosis age, race, prior diagnosis of allergic rhinitis, and eczema, health service utilization and prescription of Montelukast (an asthma controller medication) prior to age 5 years to be important predictors of asthma persistence.
+
+This work was published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247784" style="text-decoration: none;">PLoS One</a>
 
 <center><img src="/images/ClassicalML/asthma.jpg"></center>
 
