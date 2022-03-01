@@ -28,7 +28,7 @@ This work was published in <a href="https://journals.plos.org/plosone/article?id
 
 <center><img src="/images/ClassicalML/asthma.jpg"></center>
 
-### Personalized prediction of asthma persistence
+### Asthma Biomarker Detection 
 [![](https://img.shields.io/badge/Adobe-View_Abstract-brightgreen?logo=Adobe%20Acrobat%20Reader)](https://www.insticc.org/node/TechnicalProgram/BIOSTEC/2022/presentationDetails/110195)
 [![](https://img.shields.io/badge/YouTube-Presentation-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=cLnzhSrc5_g)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sauravbose/asthma-biomarker)
