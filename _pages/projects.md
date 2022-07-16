@@ -28,7 +28,7 @@ This work was published in <a href="https://journals.plos.org/plosone/article?id
 
 <center><img src="/images/ClassicalML/asthma.jpg"></center>
 
-### Asthma Biomarker Detection 
+### Asthma Biomarker Detection
 [![](https://img.shields.io/badge/Adobe-View_Abstract-brightgreen?logo=Adobe%20Acrobat%20Reader)](https://www.insticc.org/node/TechnicalProgram/BIOSTEC/2022/presentationDetails/110195)
 [![](https://img.shields.io/badge/YouTube-Presentation-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=cLnzhSrc5_g)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sauravbose/asthma-biomarker)
@@ -70,5 +70,5 @@ In this predictive analytics project, we used a dataset made publicly available 
 In a "classic course project" fashion, we explored the basics of Natural Language Processing to classify the sentiment of tweets.
 
 <!-- Write something about the cost function being user-defined multi dimensional.  -->
-
+<!-- [![](https://img.shields.io/badge/Adobe-Open Post-brightgreen?logo=Adobe%20Acrobat%20Reader)]({{ site.baseurl }}{% link _posts/Projects/2017-12-10-tweets.md %}) -->
 <center><img src="/images/CourseProjects/TwitterMulticlass.png"></center>
