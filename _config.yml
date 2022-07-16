@@ -96,7 +96,7 @@ author:
   name             : #
   avatar           : "/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
-  location         : "NYC, NY"
+  location         : "New York City, NY"
   email            :
   links:
     - label: "Email"
