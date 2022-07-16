@@ -25,4 +25,4 @@ For a more detailed summary, please check out my <a href="https://sauravbose.git
 * Ghosh A, Patton D, **Bose S**, Ouyang M, Huang H, Sze R, Sotardi S, Henry K, Francavilla M. *A Patch-based Convolutional Neural Network Approach for the detection of Rib Fractures on Frontal Radiographs in Young Children*,
 The Society for Pediatric Radiology Annual Meeting 2022. Notes: Oral presentation.
 
-* Campbell EA, **Bose S**, Masino AJ. *Obesity Classifier Performance Disparities by Demographic Subgroup*, AMIA Annual Symposium 2021. Notes: Oral presentation.
+* Campbell EA, **Bose S**, Masino AJ. *Obesity Classifier Performance Disparities by Demographic Subgroup*, AMIA Annual Symposium 2021. Notes: <a href="https://knowledge.amia.org/74229-amia-1.4622266/t004-1.4626008/t004-1.4626009/3576709-1.4626394/3576709-1.4626395?qr=1" style="text-decoration: none;">Oral presentation</a>.
