@@ -96,12 +96,12 @@ author:
   name             : #
   avatar           : "/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
-  location         : "Philly, PA"
+  location         : "NYC, NY"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:boses1@email.chop.edu"
+      url: "mailto:saurav.bose93@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
