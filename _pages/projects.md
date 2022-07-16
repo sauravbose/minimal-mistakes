@@ -65,7 +65,7 @@ In this predictive analytics project, we used a dataset made publicly available 
 <center><img src="/images/CourseProjects/DiabetesReadmission.png" width="600"></center>
 
 ### Multi-class Classification of Tweets
-[![](https://img.shields.io/badge/Adobe-Open Post-brightgreen?logo=Adobe%20Acrobat%20Reader)]({{ site.baseurl }}{% link _posts/Projects/2017-12-10-tweets.md %})
+[![](https://img.shields.io/badge/Adobe-Open Post-brightgreen?logo=Adobe%20Acrobat%20Reader)]({% post_url 2017-12-10-tweets %})
 
 In a "classic course project" fashion, we explored the basics of Natural Language Processing to classify the sentiment of tweets.
 
